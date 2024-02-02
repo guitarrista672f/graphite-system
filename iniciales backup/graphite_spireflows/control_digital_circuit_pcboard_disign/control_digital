@@ -1,0 +1,31 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>KiCad BOM Example 5</title>
+    </head>
+    <body>
+    <h1>C:\Users\Fernando\Documents\kidkad_projects\Graphite\control_digital\control_digital.sch</h1>
+    <p>12/23/2019 11:46:08 AM</p>
+    <p>Eeschema (5.1.5)-3</p>
+    <p><b>Component Count:</b>29</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Footprint</th><th>Description</th><th>Vendor</th></tr>
+    <tr><td>A1</td><td>1</td><td>Arduino_Nano_v3.x</td><td>MCU_Module:Arduino_Nano_v3.x</td><td>Module:Arduino_Nano</td><td>Arduino Nano v3.x</td><td></td></tr>
+    <tr><td>D1, D2, D3</td><td>3</td><td>D</td><td>Device:D</td><td>Diode_THT:D_A-405_P7.62mm_Horizontal</td><td>Diode</td><td></td></tr>
+    <tr><td>J1, J4, J5</td><td>3</td><td>Screw_Terminal_01x03</td><td>Connector:Screw_Terminal_01x03</td><td>TerminalBlock:TerminalBlock_bornier-3_P5.08mm</td><td>Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J2, J3</td><td>2</td><td>Screw_Terminal_01x06</td><td>Connector:Screw_Terminal_01x06</td><td>TerminalBlock:TerminalBlock_bornier-6_P5.08mm</td><td>Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>K1</td><td>1</td><td>Alarm</td><td>control_digital-rescue:SRD-24VDC-SL-C-relay</td><td>Fernando_library:SRD-24VDC-SL-C</td><td></td><td></td></tr>
+    <tr><td>K2</td><td>1</td><td>Vibrator</td><td>control_digital-rescue:SRD-24VDC-SL-C-relay</td><td>Fernando_library:SRD-24VDC-SL-C</td><td></td><td></td></tr>
+    <tr><td>K3</td><td>1</td><td>Start Driver</td><td>control_digital-rescue:SRD-24VDC-SL-C-relay</td><td>Fernando_library:SRD-24VDC-SL-C</td><td></td><td></td></tr>
+    <tr><td>R1, R2, R3, R4, R5, R6, R7, R8, R9</td><td>9</td><td>1k</td><td>Device:R</td><td>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</td><td>Resistor</td><td></td></tr>
+    <tr><td>RV1</td><td>1</td><td>10k</td><td>Device:R_POT</td><td>Fernando_library:pot_f</td><td>Potentiometer</td><td></td></tr>
+    <tr><td>U1</td><td>1</td><td>L7805</td><td>Regulator_Linear:L7805</td><td>Fernando_library:Regulator7805</td><td>Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252</td><td></td></tr>
+    <tr><td>U2</td><td>1</td><td>SFH617A-2X016</td><td>Isolator:PC817</td><td>Package_DIP:DIP-4_W7.62mm</td><td>DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4</td><td></td></tr>
+    <tr><td>U3, U4, U5, U6, U7</td><td>5</td><td>SFH617A-2X016</td><td>Isolator:SFH617A-2X016</td><td>Package_DIP:DIP-4_W10.16mm</td><td>Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 63-125, -55 to +110 degree Celcius, VDE, UL, BSI, FIMKO, wide THT PDIP-4</td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    

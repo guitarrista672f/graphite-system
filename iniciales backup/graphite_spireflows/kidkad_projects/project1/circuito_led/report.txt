@@ -1,0 +1,6 @@
+Annotated +24V as #PWR01
+Annotated GND as #PWR02
+Annotated 400 as C1
+Annotated LED as D1
+Annotated 1000 as R1
+Annotated L7805 as U1

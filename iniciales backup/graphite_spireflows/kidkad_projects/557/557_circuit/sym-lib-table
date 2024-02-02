@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name 557)(type Legacy)(uri ${FERUSER}/557/557_circuit/557.lib)(options "")(descr ""))
+  (lib (name dk_Slide-Switches)(type Legacy)(uri ${FERUSER}/Libraries_ext/digikey-kicad-library-master/digikey-symbols/dk_Slide-Switches.lib)(options "")(descr ""))
+  (lib (name dk_Battery-Holders-Clips-Contacts)(type Legacy)(uri ${FERUSER}/Libraries_ext/digikey-kicad-library-master/digikey-symbols/dk_Battery-Holders-Clips-Contacts.lib)(options "")(descr ""))
+)

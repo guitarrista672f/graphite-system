@@ -1,0 +1,22 @@
+Info: Checking netlist symbol footprint “U1:/5DFF32AF:557_circuit:ICM7555-PDIP”.
+Info: Checking netlist symbol footprint “BAT1:/5E00E471:digikey-footprints:Battery_Holder_Coin_2032_BS-7”.
+Info: Checking netlist symbol footprint “S1:/5E00F97A:digikey-footprints:Switch_Slide_11.6x4mm_EG1218”.
+Info: Checking netlist symbol footprint “C1:/5DFFA47D:Capacitor_THT:CP_Radial_D4.0mm_P1.50mm”.
+Info: Checking netlist symbol footprint “C2:/5E00BB55:Capacitor_THT:CP_Radial_D4.0mm_P1.50mm”.
+Info: Checking netlist symbol footprint “D1:/5E0005A5:LED_THT:LED_D1.8mm_W3.3mm_H2.4mm”.
+Info: Checking netlist symbol footprint “D2:/5E001634:LED_THT:LED_D1.8mm_W3.3mm_H2.4mm”.
+Info: Checking netlist symbol footprint “Q1:/5E00CCA0:Package_TO_SOT_THT:TO-92_Inline”.
+Info: Checking netlist symbol footprint “R1:/5DFF5916:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal”.
+Info: Checking netlist symbol footprint “R2:/5DFF4DB8:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal”.
+Info: Checking netlist symbol footprint “R3:/5DFF6C59:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal”.
+Info: Checking netlist symbol footprint “R4:/5DFF60A4:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal”.
+Info: Checking netlist symbol footprint “R5:/5DFF8DEE:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal”.
+Info: Checking netlist symbol footprint “R6:/5DFF96A7:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal”.
+Info: Checking netlist symbol footprint “R7:/5DFF9EDC:Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal”.
+Changing footprint U1 pad 5 net from  to Net-(U1-Pad5).
+Error: Cannot add new symbol BAT1 due to missing footprint digikey-footprints:Battery_Holder_Coin_2032_BS-7.
+Error: Cannot add new symbol S1 due to missing footprint digikey-footprints:Switch_Slide_11.6x4mm_EG1218.
+Error: BAT1 footprint “Battery_Holder_Coin_2032_BS-7” not found in any libraries in the footprint library table.
+
+Error: S1 footprint “Switch_Slide_11.6x4mm_EG1218” not found in any libraries in the footprint library table.
+
